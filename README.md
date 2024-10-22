@@ -2,7 +2,7 @@
 
 **Autor:** José Martín Berríos Piña  
 **Correo:** jose.berrios1@mail.udp.cl  
-**Fecha:** Septiembre de 2024
+**Fecha:** Octubre de 2024
 
 ## Descripción del Proyecto
 
